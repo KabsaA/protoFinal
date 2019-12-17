@@ -1,24 +1,4 @@
-@font-face {
-    font-family: logo;
-    src: url('Agustina.otf') format("otf");
-    color: red;
-}
 
-#logoFont{
-    font-family: logo;
-    font-family: 'Indie Flower', cursive;
-}
-
-
-  @media (min-width: 768px) {
-    .d-md-block {
-       display: block!important;
-    }
-  }
-
-    .d-none {
-       display: none!important;
-    }
 
 .background {
     background-image: url(pet.png);
